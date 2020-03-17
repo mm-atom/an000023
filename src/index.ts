@@ -1,2 +1,3 @@
-export default function fun() {
+
+export default function an23(param1: string) {
 }
